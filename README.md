@@ -44,5 +44,15 @@ Here are some ideas to get you started:
 #
 
 ### 📊 Stats
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yadomkar&show_icons=true)
+
+<div allign="center">
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+                    <img src="https://github-readme-stats.vercel.app/api?username=yadomkar&show_icons=true&count_private=true&theme=dark&hide=stars&hide_border=true" height="180px" />
+          </a>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadomkar&layout=compact&show_icons=true&theme=dark&hide_border=true" height="180px" />
+          </a>
+</div>
+
+
 #
