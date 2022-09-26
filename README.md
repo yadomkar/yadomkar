@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💿 Omkar Yadav
+# :otter: Omkar Yadav
 
 **`Digital Otter`**
 
