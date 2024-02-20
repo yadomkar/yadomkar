@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omkar Yadav</h1>
+<h1 align="center">Omkar Yadav</h1>
 <h3 align="center">A passionate software engineer and CS Grad Student</h3>
 
 📍 **Location:** San Jose, CA  
