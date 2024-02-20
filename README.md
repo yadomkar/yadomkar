@@ -1,5 +1,5 @@
 <h1 align="center">Omkar Yadav</h1>
-<h3 align="center">A passionate software engineer and CS Grad Student</h3>
+<h3 align="center">Software Engineer and CS Grad Student</h3>
 
 📍 **Location:** San Jose, CA  
 📧 **Email:** [omkar.sy10@gmail.com](mailto:omkar.sy10@gmail.com)  
