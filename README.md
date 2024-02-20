@@ -40,4 +40,4 @@
 - Software Engineering, Data Science, Data Engineering, DevOps, AI, GenAI, Quantitative Finance
 
 ### 💻 Open Souce
-- •	Active Open Source Contributor: NetworkX and Pandas. 
+- Active Open Source Contributor: [NetworkX](https://github.com/networkx/networkx/pull/6948) and [Pandas](https://github.com/pandas-dev/pandas/pull/48376). 
