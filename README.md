@@ -24,11 +24,12 @@
   _Aug 2020 - May 2022_  
   - Built data pipelines, monitoring tools, streamlined internal processes, and designed workflows for crisis management using Spark, HDFS, Hive, and Kafka.
 
-### 👨‍💻 Projects
+<!--- ### 👨‍💻 Projects
 
 - **Chorema - (Chore + Karma):** Gamified karma-based chore allocation in shared living spaces using Django, React, Docker, and Google Cloud.
 - **Cornerstone Cupcakes:** Raised over INR 15,000 to feed abandoned stray animals during COVID-19 lockdown, with Django based e-commerce website peaking at ~500 users.
-- **Application of Ontology-Driven NLP for the Analysis of Text:** Built an analytical framework to aid educators in exam question formulation leveraging NLP and Ontologies.
+- **Application of Ontology-Driven NLP for the Analysis of Text:** Built an analytical framework to aid educators in exam question formulation leveraging NLP and Ontologies.-->
+
 
 ### 🛠️ Skills
 - **Programming Languages:** Python, Java, Scala, C++, JavaScript, HTML, CSS, C, Bash
