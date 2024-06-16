@@ -20,7 +20,7 @@
   _Jan 2023 - Jun 2023_  
   - Led the modernization of CallHub's backend, transitioning to Python 3 Django 4.2 from Python 2 Django 1.10.
  
-- **Senior Data Engineer**, LTIMindtree (exclusively contracted to Citigroup, Inc.), Bangalore, IN  
+- **Senior Data Engineer**, Citigroup, Inc. (via. LTI), Bangalore, IN  
   _Aug 2020 - May 2022_  
   - Built data pipelines, monitoring tools, streamlined internal processes, and designed workflows for crisis management using Spark, HDFS, Hive, and Kafka.
 
